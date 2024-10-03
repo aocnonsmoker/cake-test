@@ -1,0 +1,8 @@
+{
+  "name": "Cake_test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite",
+  "id": "1ee4f80f"
+}
